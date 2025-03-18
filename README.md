@@ -5,9 +5,13 @@
 
 **Construindo um Esquema Conceitual para Banco De dados.**
 
-Agora você irá criar um esquema conceitual do zero.   Você deverá fazer a modelagem de dados com EER - Enhanced Entity Relationship  dos serviços prestados por uma oficina mecânica. 
+![Screenshot_20250318-172031](https://github.com/user-attachments/assets/87dd8a94-c5f8-4632-a7a0-a59db6725924)
 
-A partir da narrativa fornecida você será capaz de criar todas as entidades, relacionamentos e atributos.
+
+
+Foi criado um esquema conceitual do zero.   Fizemos a modelagem de dados com EER - Enhanced Entity Relationship  dos serviços prestados por uma oficina mecânica. 
+
+A partir da narrativa fornecida criei todas as entidades, relacionamentos e atributos.
 
 Apresento os diagramas e os relacionamentos das entidades.
 
