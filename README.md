@@ -35,3 +35,14 @@ Os mecânicos possuem código, nome, endereço, telefone, email, e especialidade
 
 Cada OS possui: n°, data de emissão, horário que recebeu o serviço, um valor, status e uma data para conclusão dos trabalhos. 
 
+---
+
+**Contato:**
+
+[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://santosdevbjj.github.io/portfolio/)
+[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz)
+
+
+
+
+
